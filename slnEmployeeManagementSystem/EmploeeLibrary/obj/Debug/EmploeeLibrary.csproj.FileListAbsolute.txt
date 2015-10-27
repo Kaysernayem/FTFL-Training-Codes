@@ -1,0 +1,5 @@
+C:\Users\KAN\documents\visual studio 2013\Projects\slnEmployeeManagementSystem\EmploeeLibrary\bin\Debug\EmploeeLibrary.dll
+C:\Users\KAN\documents\visual studio 2013\Projects\slnEmployeeManagementSystem\EmploeeLibrary\bin\Debug\EmploeeLibrary.pdb
+C:\Users\KAN\documents\visual studio 2013\Projects\slnEmployeeManagementSystem\EmploeeLibrary\obj\Debug\EmploeeLibrary.csprojResolveAssemblyReference.cache
+C:\Users\KAN\documents\visual studio 2013\Projects\slnEmployeeManagementSystem\EmploeeLibrary\obj\Debug\EmploeeLibrary.dll
+C:\Users\KAN\documents\visual studio 2013\Projects\slnEmployeeManagementSystem\EmploeeLibrary\obj\Debug\EmploeeLibrary.pdb

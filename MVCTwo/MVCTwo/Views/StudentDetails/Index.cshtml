@@ -1,0 +1,22 @@
+﻿@model MVCTwo.Models.StudentListModel
+
+@{
+    ViewBag.Title = "Student List";
+}
+
+<div>
+    <table border="1">
+        @for(int i=0;i<Model.StudentListCollection.Count;i++)
+        {
+            <tr>
+            <td>@Model.StudentListCollection[i].Id</td>
+            <td>@Model.StudentListCollection[i].Name</td>
+            <td>@Model.StudentListCollection[i].Address</td>
+            <td>@Model.StudentListCollection[i].Section</td>
+            <td>@Model.StudentListCollection[i].Marks</td>
+            </tr>
+        }
+    </table>
+
+</div>
+

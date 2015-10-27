@@ -1,0 +1,6 @@
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week3(15-9-15)\slnShoppingCart\ShoppingCart\bin\ShoppingCart.dll.config
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week3(15-9-15)\slnShoppingCart\ShoppingCart\bin\ShoppingCart.dll
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week3(15-9-15)\slnShoppingCart\ShoppingCart\bin\ShoppingCart.pdb
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week3(15-9-15)\slnShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week3(15-9-15)\slnShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week3(15-9-15)\slnShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache

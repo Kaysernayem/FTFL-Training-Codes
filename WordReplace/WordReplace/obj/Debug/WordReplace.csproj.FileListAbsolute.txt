@@ -1,0 +1,5 @@
+c:\users\kan\documents\visual studio 2013\Projects\WordReplace\WordReplace\bin\Debug\WordReplace.exe.config
+c:\users\kan\documents\visual studio 2013\Projects\WordReplace\WordReplace\bin\Debug\WordReplace.exe
+c:\users\kan\documents\visual studio 2013\Projects\WordReplace\WordReplace\bin\Debug\WordReplace.pdb
+c:\users\kan\documents\visual studio 2013\Projects\WordReplace\WordReplace\obj\Debug\WordReplace.exe
+c:\users\kan\documents\visual studio 2013\Projects\WordReplace\WordReplace\obj\Debug\WordReplace.pdb

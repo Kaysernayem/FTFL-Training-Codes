@@ -1,0 +1,6 @@
+c:\users\kan\documents\visual studio 2013\Projects\slnCollectionPractice\CollectionPractice\bin\Debug\CollectionPractice.exe.config
+c:\users\kan\documents\visual studio 2013\Projects\slnCollectionPractice\CollectionPractice\bin\Debug\CollectionPractice.exe
+c:\users\kan\documents\visual studio 2013\Projects\slnCollectionPractice\CollectionPractice\bin\Debug\CollectionPractice.pdb
+c:\users\kan\documents\visual studio 2013\Projects\slnCollectionPractice\CollectionPractice\obj\Debug\CollectionPractice.exe
+c:\users\kan\documents\visual studio 2013\Projects\slnCollectionPractice\CollectionPractice\obj\Debug\CollectionPractice.pdb
+c:\users\kan\documents\visual studio 2013\Projects\slnCollectionPractice\CollectionPractice\obj\Debug\CollectionPractice.csprojResolveAssemblyReference.cache

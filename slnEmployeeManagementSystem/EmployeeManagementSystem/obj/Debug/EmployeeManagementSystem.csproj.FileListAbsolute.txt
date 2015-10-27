@@ -1,0 +1,8 @@
+c:\users\kan\documents\visual studio 2013\Projects\slnEmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+c:\users\kan\documents\visual studio 2013\Projects\slnEmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+c:\users\kan\documents\visual studio 2013\Projects\slnEmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+c:\users\kan\documents\visual studio 2013\Projects\slnEmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\kan\documents\visual studio 2013\Projects\slnEmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+c:\users\kan\documents\visual studio 2013\Projects\slnEmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\slnEmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmploeeLibrary.dll
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\slnEmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmploeeLibrary.pdb

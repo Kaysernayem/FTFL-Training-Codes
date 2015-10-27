@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<body>
+    <p>@ViewBag.Title</p>
+    <table border="1" align="center">
+        
+        <caption>Employee Table</caption>
+        <tr>
+            <td>Employee No</td>
+            <td>Employee Name</td>
+            <td>Employee Salary</td>
+            <td>Employee Designation</td>
+            <td>Employee Dept No</td>
+        </tr>
+            @foreach (var item in ViewBag.Data)
+            {
+                <tr>
+                    <td>@item.EmpNo</td>
+                    <td>@item.EmpName</td>
+                    <td>@item.EmpJob</td>
+                    <td>@item.EmpSalary</td>
+                    <td>@item.EmpDept</td>
+                </tr>
+            }
+        
+    </table>
+</body>
+
+

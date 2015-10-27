@@ -1,0 +1,6 @@
+C:\Users\Polo_Dev\documents\visual studio 2013\Projects\slnphy_fas_bard\phy_fas_bard\obj\Debug\phy_fas_bard.csprojResolveAssemblyReference.cache
+C:\Users\Polo_Dev\documents\visual studio 2013\Projects\slnphy_fas_bard\phy_fas_bard\bin\phy_fas_bard.dll.config
+C:\Users\Polo_Dev\documents\visual studio 2013\Projects\slnphy_fas_bard\phy_fas_bard\bin\phy_fas_bard.dll
+C:\Users\Polo_Dev\documents\visual studio 2013\Projects\slnphy_fas_bard\phy_fas_bard\bin\phy_fas_bard.pdb
+C:\Users\Polo_Dev\documents\visual studio 2013\Projects\slnphy_fas_bard\phy_fas_bard\obj\Debug\phy_fas_bard.dll
+C:\Users\Polo_Dev\documents\visual studio 2013\Projects\slnphy_fas_bard\phy_fas_bard\obj\Debug\phy_fas_bard.pdb

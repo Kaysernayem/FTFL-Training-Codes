@@ -1,0 +1,23 @@
+﻿@using CodeProject7Days.ViewModels
+@model EmployeeListViewModel
+
+
+<body>
+    <a href ="/Employee/AddNew">Add New</a>
+    <hr />
+        <div>
+            <table border="1">
+                <tr>
+                    <th>Employee Name</th>
+                    <th>Salary</th>
+                </tr>
+                @foreach (EmployeeViewModel item in Model.Employees)
+                {
+                    <tr>
+                        <td>@item.EmployeeName</td>
+                        <td style="background-color:@item.SalaryColor">@item.Salary</td>
+                    </tr>
+                }
+            </table>
+        </div>
+</body>

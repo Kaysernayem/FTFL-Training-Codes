@@ -1,0 +1,10 @@
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\WFA_DBPracticeDisconnected\WFA_DBPracticeDisconnected\bin\Debug\WFA_DBPracticeDisconnected.exe.config
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\WFA_DBPracticeDisconnected\WFA_DBPracticeDisconnected\bin\Debug\WFA_DBPracticeDisconnected.exe
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\WFA_DBPracticeDisconnected\WFA_DBPracticeDisconnected\bin\Debug\WFA_DBPracticeDisconnected.pdb
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\WFA_DBPracticeDisconnected\WFA_DBPracticeDisconnected\obj\Debug\WFA_DBPracticeDisconnected.csprojResolveAssemblyReference.cache
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\WFA_DBPracticeDisconnected\WFA_DBPracticeDisconnected\obj\Debug\WFA_DBPracticeDisconnected.Form1.resources
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\WFA_DBPracticeDisconnected\WFA_DBPracticeDisconnected\obj\Debug\WFA_DBPracticeDisconnected.Properties.Resources.resources
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\WFA_DBPracticeDisconnected\WFA_DBPracticeDisconnected\obj\Debug\WFA_DBPracticeDisconnected.csproj.GenerateResource.Cache
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\WFA_DBPracticeDisconnected\WFA_DBPracticeDisconnected\obj\Debug\WFA_DBPracticeDisconnected.exe
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\WFA_DBPracticeDisconnected\WFA_DBPracticeDisconnected\obj\Debug\WFA_DBPracticeDisconnected.pdb
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\WFA_DBPracticeDisconnected\WFA_DBPracticeDisconnected\obj\Debug\WFA_DBPracticeDisconnected.Form2.resources

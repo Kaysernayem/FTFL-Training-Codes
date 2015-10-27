@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Calender_JavaScript", "http://localhost:49403", "{ED9228A4-CA3A-47D8-ACB6-CC5A9FBBE6CE}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49403"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\13-9-15\Calender_JavaScript\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49403\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49403"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\13-9-15\Calender_JavaScript\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49403\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\WebSites\13-9-15\Calender_JavaScript\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED9228A4-CA3A-47D8-ACB6-CC5A9FBBE6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED9228A4-CA3A-47D8-ACB6-CC5A9FBBE6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

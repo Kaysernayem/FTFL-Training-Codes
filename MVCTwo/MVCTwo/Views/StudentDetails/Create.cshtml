@@ -1,0 +1,43 @@
+﻿@using (Html.BeginForm("Create","StudentDetails",FormMethod.Post))
+{ 
+
+<h2>Create</h2>
+
+<div>
+    <table border="1">
+        <tr>
+            <td>Student ID</td>
+            <td><input type="text" name="id1" size="10"/></td>
+        </tr>
+        <tr>
+            <td>Student Name</td>
+            <td><input type="text" name="name1" size="10" /></td>
+        </tr>
+        <tr>
+            <td>Student Address</td>
+            <td><input type="text" name="address1" size="10" /></td>
+        </tr>
+        <tr>
+            <td>Student Section</td>
+            <td><input type="text" name="section1" size="10" /></td>
+        </tr>
+        <tr>
+            <td>Student Marks</td>
+            <td><input type="text" name="marks1" size="10" /></td>
+        </tr>
+        <tr>
+            <td></td><td><input type="submit" name="save" value="Save"/></td>
+        </tr>
+    </table>
+
+    <table>
+        <tr>
+            <td>
+        <span>@ViewBag.Msg</span>
+                </td>
+            </tr>
+    </table>
+
+</div>
+
+}

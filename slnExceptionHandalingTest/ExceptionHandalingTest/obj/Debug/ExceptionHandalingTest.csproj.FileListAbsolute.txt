@@ -1,0 +1,6 @@
+c:\users\kan\documents\visual studio 2013\Projects\slnExceptionHandalingTest\ExceptionHandalingTest\bin\Debug\ExceptionHandalingTest.exe.config
+c:\users\kan\documents\visual studio 2013\Projects\slnExceptionHandalingTest\ExceptionHandalingTest\bin\Debug\ExceptionHandalingTest.exe
+c:\users\kan\documents\visual studio 2013\Projects\slnExceptionHandalingTest\ExceptionHandalingTest\bin\Debug\ExceptionHandalingTest.pdb
+c:\users\kan\documents\visual studio 2013\Projects\slnExceptionHandalingTest\ExceptionHandalingTest\obj\Debug\ExceptionHandalingTest.csprojResolveAssemblyReference.cache
+c:\users\kan\documents\visual studio 2013\Projects\slnExceptionHandalingTest\ExceptionHandalingTest\obj\Debug\ExceptionHandalingTest.exe
+c:\users\kan\documents\visual studio 2013\Projects\slnExceptionHandalingTest\ExceptionHandalingTest\obj\Debug\ExceptionHandalingTest.pdb

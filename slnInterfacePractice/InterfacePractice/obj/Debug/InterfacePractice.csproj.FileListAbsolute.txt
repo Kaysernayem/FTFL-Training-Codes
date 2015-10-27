@@ -1,0 +1,6 @@
+c:\users\kan\documents\visual studio 2013\Projects\slnInterfacePractice\InterfacePractice\bin\Debug\InterfacePractice.exe.config
+c:\users\kan\documents\visual studio 2013\Projects\slnInterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.csprojResolveAssemblyReference.cache
+c:\users\kan\documents\visual studio 2013\Projects\slnInterfacePractice\InterfacePractice\bin\Debug\InterfacePractice.exe
+c:\users\kan\documents\visual studio 2013\Projects\slnInterfacePractice\InterfacePractice\bin\Debug\InterfacePractice.pdb
+c:\users\kan\documents\visual studio 2013\Projects\slnInterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.exe
+c:\users\kan\documents\visual studio 2013\Projects\slnInterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.pdb

@@ -1,0 +1,6 @@
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week3(15-9-15)\slnThreeLayerArchi\ThreeLayerArchi\bin\ThreeLayerArchi.dll.config
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week3(15-9-15)\slnThreeLayerArchi\ThreeLayerArchi\bin\ThreeLayerArchi.dll
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week3(15-9-15)\slnThreeLayerArchi\ThreeLayerArchi\bin\ThreeLayerArchi.pdb
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week3(15-9-15)\slnThreeLayerArchi\ThreeLayerArchi\obj\Debug\ThreeLayerArchi.csprojResolveAssemblyReference.cache
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week3(15-9-15)\slnThreeLayerArchi\ThreeLayerArchi\obj\Debug\ThreeLayerArchi.dll
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week3(15-9-15)\slnThreeLayerArchi\ThreeLayerArchi\obj\Debug\ThreeLayerArchi.pdb

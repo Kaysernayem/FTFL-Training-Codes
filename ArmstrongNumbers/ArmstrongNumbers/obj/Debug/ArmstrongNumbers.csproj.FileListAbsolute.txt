@@ -1,0 +1,12 @@
+c:\users\saeed\documents\visual studio 2013\Projects\ArmstrongNumbers\ArmstrongNumbers\bin\Debug\ArmstrongNumbers.exe.config
+c:\users\saeed\documents\visual studio 2013\Projects\ArmstrongNumbers\ArmstrongNumbers\bin\Debug\ArmstrongNumbers.exe
+c:\users\saeed\documents\visual studio 2013\Projects\ArmstrongNumbers\ArmstrongNumbers\bin\Debug\ArmstrongNumbers.pdb
+c:\users\saeed\documents\visual studio 2013\Projects\ArmstrongNumbers\ArmstrongNumbers\obj\Debug\ArmstrongNumbers.csprojResolveAssemblyReference.cache
+c:\users\saeed\documents\visual studio 2013\Projects\ArmstrongNumbers\ArmstrongNumbers\obj\Debug\ArmstrongNumbers.exe
+c:\users\saeed\documents\visual studio 2013\Projects\ArmstrongNumbers\ArmstrongNumbers\obj\Debug\ArmstrongNumbers.pdb
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\ArmstrongNumbers\ArmstrongNumbers\bin\Debug\ArmstrongNumbers.exe.config
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\ArmstrongNumbers\ArmstrongNumbers\obj\Debug\ArmstrongNumbers.exe
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\ArmstrongNumbers\ArmstrongNumbers\obj\Debug\ArmstrongNumbers.pdb
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\ArmstrongNumbers\ArmstrongNumbers\bin\Debug\ArmstrongNumbers.exe
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\ArmstrongNumbers\ArmstrongNumbers\bin\Debug\ArmstrongNumbers.pdb
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\ArmstrongNumbers\ArmstrongNumbers\obj\Debug\ArmstrongNumbers.csprojResolveAssemblyReference.cache

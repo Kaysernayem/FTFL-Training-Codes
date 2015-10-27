@@ -1,0 +1,6 @@
+c:\users\kan\documents\visual studio 2013\Projects\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
+c:\users\kan\documents\visual studio 2013\Projects\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+c:\users\kan\documents\visual studio 2013\Projects\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+c:\users\kan\documents\visual studio 2013\Projects\Rectangle\Rectangle\obj\Debug\Rectangle.csprojResolveAssemblyReference.cache
+c:\users\kan\documents\visual studio 2013\Projects\Rectangle\Rectangle\obj\Debug\Rectangle.exe
+c:\users\kan\documents\visual studio 2013\Projects\Rectangle\Rectangle\obj\Debug\Rectangle.pdb

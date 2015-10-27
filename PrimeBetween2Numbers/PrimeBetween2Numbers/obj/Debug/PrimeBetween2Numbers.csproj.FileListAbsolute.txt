@@ -1,0 +1,6 @@
+c:\users\kan\documents\visual studio 2013\Projects\PrimeBetween2Numbers\PrimeBetween2Numbers\bin\Debug\PrimeBetween2Numbers.exe.config
+c:\users\kan\documents\visual studio 2013\Projects\PrimeBetween2Numbers\PrimeBetween2Numbers\bin\Debug\PrimeBetween2Numbers.exe
+c:\users\kan\documents\visual studio 2013\Projects\PrimeBetween2Numbers\PrimeBetween2Numbers\bin\Debug\PrimeBetween2Numbers.pdb
+c:\users\kan\documents\visual studio 2013\Projects\PrimeBetween2Numbers\PrimeBetween2Numbers\obj\Debug\PrimeBetween2Numbers.csprojResolveAssemblyReference.cache
+c:\users\kan\documents\visual studio 2013\Projects\PrimeBetween2Numbers\PrimeBetween2Numbers\obj\Debug\PrimeBetween2Numbers.exe
+c:\users\kan\documents\visual studio 2013\Projects\PrimeBetween2Numbers\PrimeBetween2Numbers\obj\Debug\PrimeBetween2Numbers.pdb

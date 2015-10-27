@@ -1,0 +1,6 @@
+c:\users\polo_dev\documents\visual studio 2013\Projects\TaimunBhai\EmailSend\EmailSend\bin\EmailSend.dll.config
+c:\users\polo_dev\documents\visual studio 2013\Projects\TaimunBhai\EmailSend\EmailSend\bin\EmailSend.dll
+c:\users\polo_dev\documents\visual studio 2013\Projects\TaimunBhai\EmailSend\EmailSend\bin\EmailSend.pdb
+c:\users\polo_dev\documents\visual studio 2013\Projects\TaimunBhai\EmailSend\EmailSend\obj\Debug\EmailSend.csprojResolveAssemblyReference.cache
+c:\users\polo_dev\documents\visual studio 2013\Projects\TaimunBhai\EmailSend\EmailSend\obj\Debug\EmailSend.dll
+c:\users\polo_dev\documents\visual studio 2013\Projects\TaimunBhai\EmailSend\EmailSend\obj\Debug\EmailSend.pdb

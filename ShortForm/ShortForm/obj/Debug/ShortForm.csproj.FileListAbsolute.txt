@@ -1,0 +1,6 @@
+c:\users\kan\documents\visual studio 2013\Projects\ShortForm\ShortForm\bin\Debug\ShortForm.exe.config
+c:\users\kan\documents\visual studio 2013\Projects\ShortForm\ShortForm\bin\Debug\ShortForm.exe
+c:\users\kan\documents\visual studio 2013\Projects\ShortForm\ShortForm\bin\Debug\ShortForm.pdb
+c:\users\kan\documents\visual studio 2013\Projects\ShortForm\ShortForm\obj\Debug\ShortForm.csprojResolveAssemblyReference.cache
+c:\users\kan\documents\visual studio 2013\Projects\ShortForm\ShortForm\obj\Debug\ShortForm.exe
+c:\users\kan\documents\visual studio 2013\Projects\ShortForm\ShortForm\obj\Debug\ShortForm.pdb

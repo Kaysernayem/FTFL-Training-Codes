@@ -1,0 +1,6 @@
+c:\users\kan\documents\visual studio 2013\Projects\slnDeligateSample\DeligateSample\bin\Debug\DeligateSample.exe.config
+c:\users\kan\documents\visual studio 2013\Projects\slnDeligateSample\DeligateSample\bin\Debug\DeligateSample.exe
+c:\users\kan\documents\visual studio 2013\Projects\slnDeligateSample\DeligateSample\bin\Debug\DeligateSample.pdb
+c:\users\kan\documents\visual studio 2013\Projects\slnDeligateSample\DeligateSample\obj\Debug\DeligateSample.csprojResolveAssemblyReference.cache
+c:\users\kan\documents\visual studio 2013\Projects\slnDeligateSample\DeligateSample\obj\Debug\DeligateSample.exe
+c:\users\kan\documents\visual studio 2013\Projects\slnDeligateSample\DeligateSample\obj\Debug\DeligateSample.pdb

@@ -1,0 +1,6 @@
+c:\users\kan\documents\visual studio 2013\Projects\numberOfSpace\numberOfSpace\bin\Debug\numberOfSpace.exe.config
+c:\users\kan\documents\visual studio 2013\Projects\numberOfSpace\numberOfSpace\bin\Debug\numberOfSpace.exe
+c:\users\kan\documents\visual studio 2013\Projects\numberOfSpace\numberOfSpace\bin\Debug\numberOfSpace.pdb
+c:\users\kan\documents\visual studio 2013\Projects\numberOfSpace\numberOfSpace\obj\Debug\numberOfSpace.csprojResolveAssemblyReference.cache
+c:\users\kan\documents\visual studio 2013\Projects\numberOfSpace\numberOfSpace\obj\Debug\numberOfSpace.exe
+c:\users\kan\documents\visual studio 2013\Projects\numberOfSpace\numberOfSpace\obj\Debug\numberOfSpace.pdb

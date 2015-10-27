@@ -1,0 +1,6 @@
+c:\users\polo_dev\documents\visual studio 2013\Projects\TaimunBhai\1SimpleDB\1SimpleDB\bin\1SimpleDB.dll.config
+c:\users\polo_dev\documents\visual studio 2013\Projects\TaimunBhai\1SimpleDB\1SimpleDB\bin\1SimpleDB.dll
+c:\users\polo_dev\documents\visual studio 2013\Projects\TaimunBhai\1SimpleDB\1SimpleDB\bin\1SimpleDB.pdb
+c:\users\polo_dev\documents\visual studio 2013\Projects\TaimunBhai\1SimpleDB\1SimpleDB\obj\Debug\1SimpleDB.csprojResolveAssemblyReference.cache
+c:\users\polo_dev\documents\visual studio 2013\Projects\TaimunBhai\1SimpleDB\1SimpleDB\obj\Debug\1SimpleDB.dll
+c:\users\polo_dev\documents\visual studio 2013\Projects\TaimunBhai\1SimpleDB\1SimpleDB\obj\Debug\1SimpleDB.pdb

@@ -1,0 +1,6 @@
+C:\Users\Polo_Dev\Documents\Visual Studio 2013\Projects\slnPMSBARD\PMS3LayerBARD\obj\Debug\PMS3LayerBARD.csprojResolveAssemblyReference.cache
+C:\Users\Polo_Dev\Documents\Visual Studio 2013\Projects\slnPMSBARD\PMS3LayerBARD\bin\PMS3LayerBARD.dll.config
+C:\Users\Polo_Dev\Documents\Visual Studio 2013\Projects\slnPMSBARD\PMS3LayerBARD\bin\PMS3LayerBARD.dll
+C:\Users\Polo_Dev\Documents\Visual Studio 2013\Projects\slnPMSBARD\PMS3LayerBARD\bin\PMS3LayerBARD.pdb
+C:\Users\Polo_Dev\Documents\Visual Studio 2013\Projects\slnPMSBARD\PMS3LayerBARD\obj\Debug\PMS3LayerBARD.dll
+C:\Users\Polo_Dev\Documents\Visual Studio 2013\Projects\slnPMSBARD\PMS3LayerBARD\obj\Debug\PMS3LayerBARD.pdb

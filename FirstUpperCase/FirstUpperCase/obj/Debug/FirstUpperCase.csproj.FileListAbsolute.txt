@@ -1,0 +1,5 @@
+c:\users\kan\documents\visual studio 2013\Projects\FirstUpperCase\FirstUpperCase\bin\Debug\FirstUpperCase.exe.config
+c:\users\kan\documents\visual studio 2013\Projects\FirstUpperCase\FirstUpperCase\bin\Debug\FirstUpperCase.exe
+c:\users\kan\documents\visual studio 2013\Projects\FirstUpperCase\FirstUpperCase\bin\Debug\FirstUpperCase.pdb
+c:\users\kan\documents\visual studio 2013\Projects\FirstUpperCase\FirstUpperCase\obj\Debug\FirstUpperCase.exe
+c:\users\kan\documents\visual studio 2013\Projects\FirstUpperCase\FirstUpperCase\obj\Debug\FirstUpperCase.pdb

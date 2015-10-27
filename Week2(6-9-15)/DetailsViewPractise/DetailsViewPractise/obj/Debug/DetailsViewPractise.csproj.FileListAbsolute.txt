@@ -1,0 +1,12 @@
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\DetailsViewPractise\DetailsViewPractise\bin\DetailsViewPractise.dll.config
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\DetailsViewPractise\DetailsViewPractise\bin\DetailsViewPractise.dll
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\DetailsViewPractise\DetailsViewPractise\bin\DetailsViewPractise.pdb
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\DetailsViewPractise\DetailsViewPractise\obj\Debug\DetailsViewPractise.csprojResolveAssemblyReference.cache
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\DetailsViewPractise\DetailsViewPractise\obj\Debug\DetailsViewPractise.dll
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\DetailsViewPractise\DetailsViewPractise\obj\Debug\DetailsViewPractise.pdb
+C:\Users\Polo_Dev\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\DetailsViewPractise\DetailsViewPractise\bin\DetailsViewPractise.dll.config
+C:\Users\Polo_Dev\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\DetailsViewPractise\DetailsViewPractise\bin\DetailsViewPractise.dll
+C:\Users\Polo_Dev\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\DetailsViewPractise\DetailsViewPractise\bin\DetailsViewPractise.pdb
+C:\Users\Polo_Dev\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\DetailsViewPractise\DetailsViewPractise\obj\Debug\DetailsViewPractise.csprojResolveAssemblyReference.cache
+C:\Users\Polo_Dev\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\DetailsViewPractise\DetailsViewPractise\obj\Debug\DetailsViewPractise.dll
+C:\Users\Polo_Dev\Documents\Visual Studio 2013\Projects\Week2(6-9-15)\DetailsViewPractise\DetailsViewPractise\obj\Debug\DetailsViewPractise.pdb

@@ -1,0 +1,5 @@
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week1(3-9-15)\slnDatabasePractice\DatabasePractice\bin\Debug\DatabasePractice.exe.config
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week1(3-9-15)\slnDatabasePractice\DatabasePractice\bin\Debug\DatabasePractice.exe
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week1(3-9-15)\slnDatabasePractice\DatabasePractice\bin\Debug\DatabasePractice.pdb
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week1(3-9-15)\slnDatabasePractice\DatabasePractice\obj\Debug\DatabasePractice.exe
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week1(3-9-15)\slnDatabasePractice\DatabasePractice\obj\Debug\DatabasePractice.pdb

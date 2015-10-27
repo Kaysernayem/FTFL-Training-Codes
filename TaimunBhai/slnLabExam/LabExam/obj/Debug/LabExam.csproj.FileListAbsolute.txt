@@ -1,0 +1,6 @@
+c:\users\polo_dev\documents\visual studio 2013\Projects\TaimunBhai\slnLabExam\LabExam\bin\LabExam.dll.config
+c:\users\polo_dev\documents\visual studio 2013\Projects\TaimunBhai\slnLabExam\LabExam\bin\LabExam.dll
+c:\users\polo_dev\documents\visual studio 2013\Projects\TaimunBhai\slnLabExam\LabExam\bin\LabExam.pdb
+c:\users\polo_dev\documents\visual studio 2013\Projects\TaimunBhai\slnLabExam\LabExam\obj\Debug\LabExam.csprojResolveAssemblyReference.cache
+c:\users\polo_dev\documents\visual studio 2013\Projects\TaimunBhai\slnLabExam\LabExam\obj\Debug\LabExam.dll
+c:\users\polo_dev\documents\visual studio 2013\Projects\TaimunBhai\slnLabExam\LabExam\obj\Debug\LabExam.pdb

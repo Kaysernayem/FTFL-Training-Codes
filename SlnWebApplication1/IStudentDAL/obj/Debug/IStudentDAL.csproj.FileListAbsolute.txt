@@ -1,0 +1,5 @@
+C:\Users\KAN\documents\visual studio 2013\Projects\SlnWebApplication1\IStudentDAL\bin\Debug\IStudentDAL.dll
+C:\Users\KAN\documents\visual studio 2013\Projects\SlnWebApplication1\IStudentDAL\bin\Debug\IStudentDAL.pdb
+C:\Users\KAN\documents\visual studio 2013\Projects\SlnWebApplication1\IStudentDAL\obj\Debug\IStudentDAL.csprojResolveAssemblyReference.cache
+C:\Users\KAN\documents\visual studio 2013\Projects\SlnWebApplication1\IStudentDAL\obj\Debug\IStudentDAL.dll
+C:\Users\KAN\documents\visual studio 2013\Projects\SlnWebApplication1\IStudentDAL\obj\Debug\IStudentDAL.pdb

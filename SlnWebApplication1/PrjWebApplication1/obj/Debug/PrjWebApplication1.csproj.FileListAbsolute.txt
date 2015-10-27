@@ -1,0 +1,8 @@
+C:\Users\KAN\documents\visual studio 2013\Projects\SlnWebApplication1\PrjWebApplication1\bin\PrjWebApplication1.dll.config
+C:\Users\KAN\documents\visual studio 2013\Projects\SlnWebApplication1\PrjWebApplication1\bin\PrjWebApplication1.dll
+C:\Users\KAN\documents\visual studio 2013\Projects\SlnWebApplication1\PrjWebApplication1\bin\PrjWebApplication1.pdb
+C:\Users\KAN\documents\visual studio 2013\Projects\SlnWebApplication1\PrjWebApplication1\bin\EmploeeLibrary.dll
+C:\Users\KAN\documents\visual studio 2013\Projects\SlnWebApplication1\PrjWebApplication1\bin\EmploeeLibrary.pdb
+C:\Users\KAN\documents\visual studio 2013\Projects\SlnWebApplication1\PrjWebApplication1\obj\Debug\PrjWebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\KAN\documents\visual studio 2013\Projects\SlnWebApplication1\PrjWebApplication1\obj\Debug\PrjWebApplication1.dll
+C:\Users\KAN\documents\visual studio 2013\Projects\SlnWebApplication1\PrjWebApplication1\obj\Debug\PrjWebApplication1.pdb

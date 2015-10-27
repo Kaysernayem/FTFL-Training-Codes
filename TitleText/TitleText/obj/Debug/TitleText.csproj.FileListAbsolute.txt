@@ -1,0 +1,6 @@
+c:\users\kan\documents\visual studio 2013\Projects\TitleText\TitleText\bin\Debug\TitleText.exe.config
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\TitleText\TitleText\obj\Debug\TitleText.csprojResolveAssemblyReference.cache
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\TitleText\TitleText\bin\Debug\TitleText.exe
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\TitleText\TitleText\bin\Debug\TitleText.pdb
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\TitleText\TitleText\obj\Debug\TitleText.exe
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\TitleText\TitleText\obj\Debug\TitleText.pdb

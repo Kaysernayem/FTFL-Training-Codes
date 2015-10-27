@@ -1,0 +1,6 @@
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week1(3-9-15)\DatabaseMenuDrivenProgram\DatabaseMenuDrivenProgram\bin\Debug\DatabaseMenuDrivenProgram.exe.config
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week1(3-9-15)\DatabaseMenuDrivenProgram\DatabaseMenuDrivenProgram\bin\Debug\DatabaseMenuDrivenProgram.exe
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week1(3-9-15)\DatabaseMenuDrivenProgram\DatabaseMenuDrivenProgram\bin\Debug\DatabaseMenuDrivenProgram.pdb
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week1(3-9-15)\DatabaseMenuDrivenProgram\DatabaseMenuDrivenProgram\obj\Debug\DatabaseMenuDrivenProgram.exe
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week1(3-9-15)\DatabaseMenuDrivenProgram\DatabaseMenuDrivenProgram\obj\Debug\DatabaseMenuDrivenProgram.pdb
+C:\Users\KAN\Documents\Visual Studio 2013\Projects\Week1(3-9-15)\DatabaseMenuDrivenProgram\DatabaseMenuDrivenProgram\obj\Debug\DatabaseMenuDrivenProgram.csprojResolveAssemblyReference.cache
